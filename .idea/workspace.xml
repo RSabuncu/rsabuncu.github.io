@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c52db04-eb35-4d7f-8d2c-91834b2594cf" name="Changes" comment="angular">
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/angular-webpack/9887b2d78cd76eb862dae7fe7ab2a5c30dad510a/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/angular-webpack/9887b2d78cd76eb862dae7fe7ab2a5c30dad510a/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0171bbec38b90b95968dc6805682e835.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/022e929331f7098eabc6b80622430320.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/03c64b1be9f9176625abac388502997d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0432cc8f850825bc0ab52ff7756fba5c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/04e5e58985d3312938e643cb9cc405cf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/05d4e23f5cdf1e1be409249db78d493c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0742fd78a1b82d650ed46d2fe3c4fa40.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/078993eb3a05dfda35f60a4ca99ceef3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0821522159140b5ad9d988018f797971.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0956f452b6f6b0e12ed06084744c35b2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/09711a448fb2222d4e9ccf5cced80c42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0aa3c04c57c842c5a8b3e184cf20449c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0cc2ebef2a584b5ee01c4c78949300fb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0eb1e86904140a27c63c9d6edc7af855.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/0fc4f90205ef384189bfdb8dfcf21140.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/19d45970276ddbdff9e5a4d740caacce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/1a1e04c7fc692637cfd91b7cf9977b77.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/1caee66016f482f918b99f7a471008f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/1daacf4624fd753a3e90c2fc27e96ffe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/1e778fa9064e467c84df642859073697.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2040c665bcd01c384532e4f401a63095.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/20d9b20739399ed0e67d3ea2150d4d81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/229848c1ac0e1237c61e3f3eb85f440c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/239c21d19faaa248af88c78f53337fac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/25cf6f17db7b01194c076c0a6d3919c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/27c0b55b59bea59db652b4712f3a0f4f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2a307d2cb8bb3e1ca50b7245e8e46ae4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2aacd73405af9a04533d0f4aa66b57c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2ba7a9549986acba1605fae3de4e8b71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2d88c8e5fa84921d93ed61fa9576087f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2f1dcf0bbcebbceb39622eade8bea7c5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/2ff68b498200f83a151f1f2e83a02cd7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3055eaf88c6772d9e1f6457f22cc32af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/305ce394f86555a2f4ae04f686561aca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/31cffe82049a0a2875d00fcde6cac416.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/325023651e8bd19d36f3b62626348eb8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/33bb04861d720238abf41c844531f562.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/34aff620b7f6178593ffa842f09bc3d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/367194ed4e849c925e94068c1f33b9e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/36d70d0672fc37aee8595f6b38235ca7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3778ef0ee23ebb9a54bd15ebf6249dc0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3792badf386798303881b7d410e47e62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/37c24b0bf01098ab75c20d1a0b14f8ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/37ec3dac0e650bd287327d27f976c92b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/38681d47a271696e46a918e1707fa4d5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/387c4be11662d9fc63134cabb049905c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/398529ece49561608567c05f280e0312.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3a375d9765670972a4b1ef722bd39ffa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3ae63a9d83192014e5bc137be6e6b71c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/3e7c5dbaa39a6a88fde525e80727eab2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/406438809a5c96b7bc7dc82439a44c7e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/41444abb7762102aa729e00f990ae9bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/415f21c200c8124eeb18c3426d5422dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/427447a08966b48735acc7fcc8d33a2a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/42a7254a753006d458bdcb3c28e6c513.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/462bb71bd82ac3e75acebb4520be75e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4809e71c6ff5bc2ff9d39997b64985f0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/48a66edf1288c5ebfc543aecbd6c47bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/491a5b9a70cf43a2a70afed4c0f5403b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/498f02eaaee01a2e0d55f90399af6490.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4a3aeb1d954d4c9d71ff89bb907c75ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4abf10b614b25bccb52dccdbfe2b9b5d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4d85cc1a72e6a74be2d7f95b6efe233b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4d940d894f95add204fbe1b1f0be6e9d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4f7e7f3e94797d60610e302f0050779d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4f9d2bd629193675c0eda6dbbbc2fc68.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/4ff7c9284dc56e515a93aa67b1176133.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/50876637939a555249dbbfae158b5094.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/513ee5f8201fec0205a1c34c0d47b0d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/517779bf1bfe946a1452e22d60d9cb03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5215fd68c34a4adb64ebee83d99a1329.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/52da3e0532742a0a53fc0e55ff3801d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/547f0ca5deb1292dc151bbc7d4c03825.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/555988f0f0bd28bb52f5293c5c0c2eee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/559e6c24b3f4210ec324a41a8cbba36d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/565ebb33a2b9b7367c52a898eb8ffe51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/570e2a21a5080c9331f4a4bc061de057.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5813817e61506c8ae039e7d299dc0d34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5846d2dfcf464f57d797dddd136fbda7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5b5ddbc91a79a0e970507ba7c251b03c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5d81a2b82aa95a58e3f5d5a260be8851.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5e1f295d9d412cdd6a82441600be1059.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5f654d812dee4821975624c0f85ea628.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/5fce2553a784898db6b4cfb0d9004f80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6090e385604fb3ae98fab84880b36df1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/60a2621d812b482443dc0e040603b187.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/611e5cdd918ceb4d070d0bdb61cfd13f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/62ff4f4b0bcba10a6110fe355f680839.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/638318c805be3e528b1584d89c5af4ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/63dfeea710f0cf1c9882360ce046821b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/641a6479689e018dc0ac9f3c274f214c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6421f8687052d1f46c0d72c55fced6f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6458b44d49bb445e13da6379c7e34852.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/650d80be6b60c47998947699b9f0e5c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/65cc0ac19d38c414223b73ffc28d38aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/65ceb46aac3ec5c729c3c44a946c3310.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/65db26214caa5d39cbff2677ca99dd71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/65e94e3056645c1a8ba5c1c17afebed6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6632c41c7582d4987d3792900b821ae6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/669f5e0bdfa7c692dd41bea3af63bba5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/67c174a7b21dae14ae6db5c7676e0df6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/67c34e63c68d8505bc838bcacf4822dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/689d7f87817c88310df555ad3a78fb84.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6b59e7111dbc4eabd99a9126c4bcba28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6ca33843bbd48a3bc6cb26bd8b609cf0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6e0c3dcb78bc560487082eb0ec771737.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/6f90fcd291ae81a07040789d8b0694da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/71633556844f2ccd560b261de5067c26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/720b1666b24da119bea136ce3058c5b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/74abcb70e9949c5824eaa883b66dec3d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/77854bdeaa2bb7c679a357b541b93861.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/78959be5ac5262401930ef5a64704a56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/7a056bb6446fbe2069d96b2b658c05d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/7dc507445b77c8238f10b65e12526a11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/7ed9dd6635539a5305f51e6e238c9cb5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/7f137c00f5c19482d1d6c8a258ff370c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/81367d3c217bdd1e3592e67d9d0242ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/81edd3f2cf447e8cc9a1cd108f6166d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/83d68d80b945660634fe40415c7d3eac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/840f576955b5b90abb9a59cb2910dde7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/851c247d833fcd73b255859b56766b33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/85b3ae732d68f7b07ea906f36f579140.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/85d2f1608008ecbfe8d37afabc915118.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/863d6da7c1f3ad721f87c6be907fbb4b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8684893be54800971dada0a95f95709c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/876184e452622d9ab97bae0134c4102b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8a26dd65ff31eea2319a16509c68ff8e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8a51ae1ab16f314736ad7948bac9198e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8b04f6ec3c29becdaedb23e361ef0dd9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8c66a2bf0ab9cf1448386bbe27222c9b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8dc6de0ce5feffde3af1a2fb74a6bfc4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8e2f6c8f437cdb93b46d3a6e0bdb4d47.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8ef71283a18233a9efc216da8aaa0c37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8f26351d9166d5cce423dddeb69d3791.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/8f3d42d41ed06ab91ec5289dfc4a7ebc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/934d019b8ca34a5d4997fa586635735a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/935b43e661a83aeddf88fd932a5a65d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9398a76a8da897caf22ddc685b5d351b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9496aff2581d80a22f480024d261a229.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/986e7c47e1ebb25d29a5e0982c9926a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/992bb8ed7125ce14412eb70884b2484e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9962c372bb1d38f8416f25584c801452.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/99740f0735f7bb3feae28ae2df6390c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9c725cf469ea8624f85c2824863fb2e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9c9198a5a811ee5384774cfc0629eeb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9cf8246912d099ed039fbbdbe6e6f241.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9e0ab6047e32eded4a2945930e80d1f9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9e6a6f5945b8b0fd35710d04daa6450e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/9f5a5981befd2d5bfd0fc6d686d0edf9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/a21a8578a7d3cdaf34211b99ca1f6c82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/a3d566d42faf9cc661580227fbab135c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/a6c8d2b4253aad6071e4b5399b3f3b52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/a6f5df29bcfd6527eeafeeca7f632e49.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/accafc2a387003f41ea80e67a5a456bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/adbeb1f6db1a09f55411124be8e28f50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ae183b44a6b7452fbee2c5d7c22c7fc0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ae386cf6395ba8dd6006e35d648d0669.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/af320c4ddda37d9c1c51af32bd20178a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b11a8038b3f4b2cfd8f073157379de2b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b11b55fa40e576886a54f9600b261db0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b1f7b1ad4bec26a80554953ef13cd0fd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b2a628612211aec5f243c1f690598f08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b2be65eb3c0d37c64405c3a312f902a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b3d6735faa2f86c29c063143663860c1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b465dd6e7020e2a825432e0c0c46191c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b477c523b920d13f8e3392c344320de0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b69ecbea4d377efc30a4b9b5bb41f987.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/b9774d7dc481f8f544fb69935ef42b69.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/bd02840507ff85ef76c26c1c322c01e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/bde4b2e9887cdc76e87f6ac1e9fba1ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/befb6afba20bb40b515ce947242b0b65.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/bf5744316f2fa1481ee09702bd434182.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/bf5f747a89421bae3fb30d20a5f52c1d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/bfaedc125866ad661a0938a8a7446f4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c0435e1b961096edd2a497b403a94ab2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c0521fe405b334a61a5bbed06b3ec247.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c15280e47b11fff3dbcbccc6919653c8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c20c940f7894ab268e9fe70c65a06eb8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c25dfc3fcb8bb69f26d6294d14a3fcfc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c2c7530932809ae9820779cc708f3c34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c2e91e3312f7eac200ddcac9c7584ad1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c32f2f322074d87094f16ecb8597f646.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c360c014093a60e9d619fa8a9f02eaf1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c549526ee629d0ecbb6251f81e470c63.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c6e802b3796be2be723d8b7a9016abb9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c7448c50cd3eb137ef10265e4fe8d517.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c84d2e7993d224fb52b9eed31272693b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/c99d140226033ef5dda3895b2abc4dda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ca179fff8fc0f66be0904a1e1d5ea218.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ca3fc825c9c2cf62cdf9a2fa2bc076ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/cb5cf304e25114cbc9fc0b174f55cf13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/cb5d1588fdb31e00db02b8643909d03c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/cb845449c8086eb71a5aaf63c4e20101.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/cd0ea7477243ee2aba094e0003c3438c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d10838835f6fb2d9e31c70f56ffc5fe4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d18f23907664de7f8c3472d213633ed9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d48f23395ba10bda375b5f0ce58559ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d4b7a744879f780d25ea4d0516315170.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d53cb99a7e383664a86e7f23cd9d1326.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d5451a40dc179ec8af85edb98c7b5508.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d747119c5626ac5b5244831322a16bd0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/d98461ab70837ba8b6ccfbd390608da3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/da8a511e886173200727bb07d45f8cc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/da9fdfe4df04db10e37222149504ccfb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/db80ffe4f57d5f6954057b142ba7498e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/dba4c9520435d8cd60c46ccf22bdfad8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/dc250d71b0dd4e6bdf367f57d4968912.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/dfbf3d47436d9f8a492a593980c57ad7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/e12cc6df74cc8972f3dcc4681bf7cd9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/e2b7883379e2d4d62f2204fe97679ebc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/e62b4e5f16266ea042ef35091db9693b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/e6af4d4069434fdc3df299fce01282a5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/e9fac0d3ab5e7fadf2fc2eeabee96c67.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ebadb49ce131826f32fdc6f5b31b31a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ec1d308636e969394295abf559a92639.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/edf7d9fb5c97cc8be6bfd485c2440be6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ef1b86f448d7cdc80f04e5a893ebe516.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/ef7a7da5236bdd9eb47efd85a423c9d9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/efb158277ba9f2d3a08495517f64b14e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/efbe0ba3496f6d416b91b057a31b7c88.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f04405c73a98ecb223cd5d206fba3841.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f108a174d82f869bdbec985d40c59c7c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f1d59b6be0dff04db99d7c59cf02bf27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f3558b97661544f3697be636e9be3d4d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f38b26176e9aa61227e7c3756071a1ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f3bbd48add123e09fad236c6a9664793.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f416348f9fe378a29273a1d9f0c23800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f4a3c6879632c171641eb422160014c7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f568d54ae86223ad90a41d7547de6c33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f5690c0ab1d15a046c38752df56fe8c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f5f81f760383e0708cca9e8ee757ac93.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f7b20e18ece526e2469ae94d46772848.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f7b2145642eaf3b93477ee41659431d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f84df8827983c3203c843c6a24c15c32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f90cd008bf67d73457fbbe29637310fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f9106cee5b8646556668ff8f5b65076c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f9309e9f95ded24f5a82e52428e7b3d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/f9c7580264bd19bc4b2bbe9788afdeab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.4/babel-webpack/feabc2724bc8995de0e89e6ad4cfb1d6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/about/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/about/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/about/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/beardcut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/close-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/haircut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/header-bgORG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/ibm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/microsoft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/map-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/navbar-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/1ORg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/wash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/header-bg.4556648860ea0952.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/main.cc04cf4eae648967.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/map-image.96edb6adec82194c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/polyfills.86dd20d4a7c9870b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/runtime.58585e47159ceadf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/styles.31e9196424d90406.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25RCih80dhQGFlkrgg8RlBAR98B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c52db04-eb35-4d7f-8d2c-91834b2594cf" name="Changes" comment="" />
+      <created>1645480641129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645480641129</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1645480692726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645480692726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1645480877742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645480877742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="angular">
+      <created>1645481416707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645481416707</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="angular" />
+    <option name="LAST_COMMIT_MESSAGE" value="angular" />
+  </component>
+</project>
